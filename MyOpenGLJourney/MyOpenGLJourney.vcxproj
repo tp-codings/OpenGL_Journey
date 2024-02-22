@@ -79,11 +79,13 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <LibraryPath>D:\1. Programmieren\C-Libraries\Libs;$(LibraryPath)</LibraryPath>
-    <IncludePath>D:\1. Programmieren\C-Libraries\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)\lib</LibraryPath>
+    <IncludePath>$(SolutionDir)\include</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(SolutionDir)\include</IncludePath>
+    <LibraryPath>$(SolutionDir)\lib</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
