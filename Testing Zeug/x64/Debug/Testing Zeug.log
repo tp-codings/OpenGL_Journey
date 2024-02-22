@@ -1,0 +1,28 @@
+﻿  TerrainGenerator.cpp
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(127,28): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(129,32): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(167,28): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(198,40): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(277,17): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(278,17): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(282,19): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(283,19): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(285,13): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(286,13): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Testing Zeug\TerrainGenerator.cpp(295,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+glfw3.lib(init.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(init.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(window.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(window.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(input.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(input.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_init.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_monitor.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_time.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_thread.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(monitor.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(monitor.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(vulkan.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_window.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_joystick.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(wgl_context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(egl_context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(osmesa_context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  Testing Zeug.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Debug\Testing Zeug.exe

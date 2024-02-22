@@ -1,0 +1,10 @@
+﻿  asteroids.cpp
+D:\1. Programmieren\OpenGL\Programme\asteroids\asteroids.cpp(490,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\asteroids\asteroids.cpp(491,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\asteroids\asteroids.cpp(495,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\asteroids\asteroids.cpp(496,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\asteroids\asteroids.cpp(498,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\asteroids\asteroids.cpp(499,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\asteroids\asteroids.cpp(506,28): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\asteroids\asteroids.cpp(341): warning C4715: "initWindow": Nicht alle Codepfade geben einen Wert zurück.
+  asteroids.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Debug\asteroids.exe

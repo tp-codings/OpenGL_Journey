@@ -1,0 +1,10 @@
+﻿  Postprocessing.cpp
+D:\1. Programmieren\OpenGL\Programme\Postprocessing\Postprocessing.cpp(1424,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Postprocessing\Postprocessing.cpp(1425,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Postprocessing\Postprocessing.cpp(1429,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Postprocessing\Postprocessing.cpp(1430,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Postprocessing\Postprocessing.cpp(1432,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Postprocessing\Postprocessing.cpp(1433,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Postprocessing\Postprocessing.cpp(1440,28): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Postprocessing\Postprocessing.cpp(998): warning C4715: "initWindow": Nicht alle Codepfade geben einen Wert zurück.
+  Postprocessing.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Debug\Postprocessing.exe

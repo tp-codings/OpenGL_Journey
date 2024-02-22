@@ -1,0 +1,42 @@
+﻿  Life3D_Engine.cpp
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(435,24): warning C4838: Konvertierung von "FT_Pos" zu "unsigned int" erfordert eine einschränkende Konvertierung
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(456,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(464,30): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(521,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(522,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(526,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(527,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(529,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(530,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(546,34): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(605,41): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(605,36): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(606,41): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(606,36): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(607,41): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(607,36): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(627,21): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(876,103): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(877,210): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(878,208): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(947,53): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(947,34): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(950,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(952,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(954,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(956,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(958,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(960,46): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(997,44): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(997,39): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(998,44): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(998,39): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(999,44): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\Life3D\Life3D_Engine.cpp(999,39): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+LINK : warning LNK4098: Standardbibliothek "MSVCRTD" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+  1 of 2798 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    33 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Life3D.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Release\Life3D.exe

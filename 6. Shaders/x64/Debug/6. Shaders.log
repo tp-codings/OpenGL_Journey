@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (6. Shaders.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  ShaderClassTest.cpp
+D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\ShaderClassTest.cpp(25,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\ShaderClassTest.cpp(200,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  6. Shaders.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Debug\6_Shaders.exe

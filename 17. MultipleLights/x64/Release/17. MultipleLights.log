@@ -1,0 +1,32 @@
+﻿  MultipleLights.cpp
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(926,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(927,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(931,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(932,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(934,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(935,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(942,28): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  stb_handler.cpp
+  glad.c
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+LINK : warning LNK4098: Standardbibliothek "MSVCRTD" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(574): warning C4715: "initWindow": Nicht alle Codepfade geben einen Wert zurück.
+  All 977 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+glfw3.lib(context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(window.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(window.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(input.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(input.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(init.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(init.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_thread.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_window.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_joystick.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_time.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_init.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_monitor.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(monitor.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(monitor.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(vulkan.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(wgl_context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(egl_context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(osmesa_context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  17. MultipleLights.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Release\17. MultipleLights.exe

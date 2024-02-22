@@ -1,0 +1,12 @@
+﻿  Beleuchtung.cpp
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(357,88): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(357,61): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(357,35): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(495,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(496,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(500,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(501,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(503,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(504,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(511,28): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  2. Beleuchtung.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Debug\2. Beleuchtung.exe

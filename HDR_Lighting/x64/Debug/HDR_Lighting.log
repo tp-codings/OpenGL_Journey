@@ -1,0 +1,20 @@
+﻿  glad.c
+  hdr.cpp
+  stb_handler.cpp
+  Code wird generiert...
+glfw3.lib(init.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(init.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(window.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(window.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(input.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(input.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_init.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_monitor.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_time.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_thread.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(monitor.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(monitor.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(vulkan.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_window.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(win32_joystick.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(wgl_context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(egl_context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB "" wurde nicht mit "glfw3.lib(osmesa_context.obj)" oder an "" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  HDR_Lighting.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Debug\HDR_Lighting.exe

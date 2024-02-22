@@ -1,0 +1,10 @@
+﻿  MultipleLights.cpp
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(926,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(927,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(931,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(932,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(934,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(935,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(942,28): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\17. MultipleLights\MultipleLights.cpp(574): warning C4715: "initWindow": Nicht alle Codepfade geben einen Wert zurück.
+  17. MultipleLights.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Debug\17. MultipleLights.exe

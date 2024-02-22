@@ -1,0 +1,4 @@
+﻿  Beleuchtung.cpp
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\Beleuchtung.cpp(1,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "glad/glad.h": No such file or directory
+  stb_handler.cpp
+D:\1. Programmieren\OpenGL\Programme\2. Beleuchtung\stb_handler.cpp(2,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "stb_image/stb_image.h": No such file or directory

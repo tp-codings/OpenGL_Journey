@@ -1,0 +1,4 @@
+﻿  TextureTest.cpp
+D:\1. Programmieren\OpenGL\Programme\7_Textures\TextureTest.cpp(273,17): warning C4305: "+=": Verkürzung von "double" in "float"
+D:\1. Programmieren\OpenGL\Programme\7_Textures\TextureTest.cpp(279,17): warning C4305: "-=": Verkürzung von "double" in "float"
+  7_Textures.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Debug\7_Textures.exe

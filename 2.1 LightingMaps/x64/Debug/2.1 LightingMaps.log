@@ -1,0 +1,12 @@
+﻿  LightingMaps.cpp
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(314,88): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(314,61): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(314,35): warning C4244: "Argument": Konvertierung von "double" in "GLfloat", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(469,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(470,16): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(474,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(475,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(477,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(478,15): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\1. Programmieren\OpenGL\Programme\2.1 LightingMaps\LightingMaps.cpp(485,28): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  2.1 LightingMaps.vcxproj -> D:\1. Programmieren\OpenGL\Programme\MyOpenGLJourney\x64\Debug\2.1 LightingMaps.exe
